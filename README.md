@@ -21,5 +21,5 @@
 <div>
  <a href="https://instagram.com/yan_brendo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/yam-brendo-72a81b242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://wa.me/5548999999999?text=Olá,%20me%20chamo%20Yam%20Brendo,%20em%20que%20posso%20ajudar%20?" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+     <a href="https://wa.me/5548999999999" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
